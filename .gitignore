@@ -64,3 +64,6 @@ desktop.ini
 *.zip
 *.rar
 *.7z
+
+# Vuforia离线缓存包
+Assets/Editor/Migration/*.tgz
